@@ -13,7 +13,7 @@ npm install nodemon --save-dev
 
 ```
 
-- [ESLint] (https://eslint.org/)
+- [ESLint](https://eslint.org/)
 
 `ESLint` is a linting tool for JavaScript. Linting is the process of checking your source code for potential problems, style errors, or violations of certain rules in writing code. By implementing linting, you can improve code quality, identify potential bugs, and make code easier to read and maintain.
 
