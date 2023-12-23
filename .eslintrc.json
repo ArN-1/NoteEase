@@ -9,10 +9,7 @@
         "ecmaVersion": "latest"
     },
     "rules": {
-        "indent": [
-            "error",
-            4
-        ],
+        "indent": "off",
         "no-console": "off"
     }
 }
